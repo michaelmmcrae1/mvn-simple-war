@@ -1,0 +1,12 @@
+target
+*.jar
+*.war
+*.class
+
+# Eclipse #
+.project
+.metadata
+.classpath
+.settings/
+/bin/
+/build/
